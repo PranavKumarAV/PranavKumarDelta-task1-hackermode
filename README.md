@@ -1,8 +1,8 @@
 # PranavKumarAV.github.io
  
-Task 1 : Forty shades of gray
+Task 1 : Forty shades of gray (HACKER Mode)
 
-Code which I did for my college club Induction: Task 1: HACKER Mode:
+Code which I did for my college club Induction: 
 
 Problem Statement:
 
