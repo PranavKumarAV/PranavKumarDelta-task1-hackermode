@@ -1,5 +1,6 @@
 # PranavKumarAV.github.io
- Delta/Task1/HackerMode
+ 
+Task 1 : Forty shades of gray
 
 Code which I did for my college club Induction: Task 1: HACKER Mode:
 
